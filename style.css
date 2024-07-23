@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+.conteiner{
+    display: flex;
+    font-size: 60px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh ;
+    
+}
+
+.bt01{
+    background-color: chartreuse;
+    border-radius: 1vh;
+    font-size: 30px;
+}
+#bt02{
+     background-color:rgb(250, 105, 105); 
+    border-radius: 1vh;
+    font-size: 30px;
+}
